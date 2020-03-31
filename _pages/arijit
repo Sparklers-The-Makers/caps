@@ -1,0 +1,20 @@
+ 1) When a person has tested COVID-19 positive, besides the treatment, an important task is to find out all the direct and indirect contacts of the patient for the previous 14 days. 
+
+ 2) However, it is quite difficult for the person to name all such contacts direct contacts and is practically infeasible to identify the indirect contacts. Consequently, this might start a chain of COVID-19 spread. 
+
+3) To interrupt and break this chain, we developed CAPS, that is, COVID19 Affected People Surveillance App.   
+
+4) Through CAPS, users can record every person they have had contact with within a distance of X metre and everyone else the latter has come in contact with. This eventually leads the user to a graph of direct and indirect contacts. If any contact in the graph has tested COVID-19 positive , everyone else in the contact graph will be notified to act accordingly. In the current vulnerable circumstances, CAPS will help users to determine their own risk and thus, the importance of CAPS.
+
+5) Let me explain the feature using an example, consider a person A and a person B, both having CAPS installed in their smartphones. Whenever they come in contact with each other, a new entry will be added in their respective CAPS app denoting that Person A has come in contact with Person B  along with time and location of contact and vice versa. The app creates an entry for all such contacts of CAPS users. 
+
+6) Contact is detected between two users based on their GPS location and Bluetooth.
+
+7) Let's say Person A had contact with Person B and Person B had contact with Person C. Now, if Person A has tested COVID-19 positive, his direct contact, that is, Person B and his indirect contact, that is, Person C will be notified immedietely. 
+
+8) Moreover, every other user of CAPS will get this notification so that they can avoid contact with them in future and hence, can potentially breaks the chain of virus spread. 
+
+9) Finally, this app will also detect any public mass gathering nearby and its location and notify that to the user so that the user can avoid going to that location. 
+
+10) Another use case of CAPS is that Police can detect such gathering and take appropriate actions to handle the gatherings. (danda debo). 
+
